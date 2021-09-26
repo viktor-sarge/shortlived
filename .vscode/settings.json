@@ -1,0 +1,10 @@
+{
+	"conventionalCommits.scopes": [
+		"objects",
+		"helpers",
+		"logic",
+		"html",
+		"css",
+		"overhead"
+	]
+}
